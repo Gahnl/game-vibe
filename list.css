@@ -3,7 +3,7 @@ main {
 }
 
 .page-title{
-    color: #fff;
+    color:  #070c55;
     font-size: 36px;
 
     text-align: center;
@@ -18,11 +18,11 @@ main {
 
 .game-title{
 font-size: 24px;
-color: #fff;
+color:  #070c55;
 }
 
 .game-description{
-    color: #fff;
+    color:  #070c55;
     font-size: 20px;
     font-weight: 200;
    
